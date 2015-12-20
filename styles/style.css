@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+	background-position: center;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	background-color: #F3F3F3;
+  }
+h2 {
+  font-size: 6rem;
+  font-weight: 400;
+  margin: 0 auto;
+  }
